@@ -1,17 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 14 2020
-
-@author: Garv Tambi
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 14 2020
-
-@author: Garv Tambi
-"""
-
 
 import numpy as np
 import pickle
